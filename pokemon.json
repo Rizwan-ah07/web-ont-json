@@ -6,14 +6,14 @@
       "age": 1500,
       "isActive": true,
       "birthDate": "1999-01-18",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/dialga.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Dialga.png",
       "rarity": "Legendary",
       "abilities": ["Time Warp", "Metal Claw", "Roar of Ages"],
       "trainerAffiliation": {
         "id": "TRN-001",
         "name": "Ash Ketchum",
         "region": "Kanto",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/ash.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Ash.webp"
       }
     },
     {
@@ -23,14 +23,14 @@
       "age": 800,
       "isActive": false,
       "birthDate": "2001-10-31",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/darkrai.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Darkrai.png",
       "rarity": "Legendary",
       "abilities": ["Nightmare", "Dark Pulse", "Shadow Sneak"],
       "trainerAffiliation": {
         "id": "TRN-002",
         "name": "Misty Waterflower",
         "region": "Kanto",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/misty.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Misty.webp"
       }
     },
     {
@@ -40,14 +40,14 @@
       "age": 120,
       "isActive": true,
       "birthDate": "2002-06-15",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/blaziken.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Blaziken.png",
       "rarity": "Starter",
       "abilities": ["Blaze Kick", "Sky Uppercut", "Fire Spin"],
       "trainerAffiliation": {
         "id": "TRN-003",
         "name": "Brock Harrison",
         "region": "Kanto",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/brock.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Brock.webp"
       }
     },
     {
@@ -57,14 +57,14 @@
       "age": 95,
       "isActive": true,
       "birthDate": "2003-03-22",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sceptile.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Sceptile.png",
       "rarity": "Starter",
       "abilities": ["Leaf Blade", "Quick Attack", "Solar Beam"],
       "trainerAffiliation": {
         "id": "TRN-004",
         "name": "Gary Oak",
         "region": "Kanto",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/gary.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Gary.webp"
       }
     },
     {
@@ -74,14 +74,14 @@
       "age": 600,
       "isActive": true,
       "birthDate": "2000-12-01",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/metagross.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Metagross.png",
       "rarity": "Pseudo-Legendary",
       "abilities": ["Meteor Mash", "Psychic", "Iron Defense"],
       "trainerAffiliation": {
         "id": "TRN-005",
         "name": "May Maple",
         "region": "Hoenn",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/may.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/May.webp"
       }
     },
     {
@@ -91,14 +91,14 @@
       "age": 450,
       "isActive": false,
       "birthDate": "2004-08-10",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/gardevoir.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Gardevoir.png",
       "rarity": "Rare",
       "abilities": ["Psychic", "Moonblast", "Calm Mind"],
       "trainerAffiliation": {
         "id": "TRN-006",
         "name": "Dawn Summers",
         "region": "Sinnoh",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/dawn.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Dawn.webp"
       }
     },
     {
@@ -108,14 +108,14 @@
       "age": 700,
       "isActive": true,
       "birthDate": "2005-11-20",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hydreigon.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Hydreigon.png",
       "rarity": "Pseudo-Legendary",
       "abilities": ["Darkness Rush", "Dragon Claw", "Hyper Beam"],
       "trainerAffiliation": {
         "id": "TRN-007",
         "name": "Iris Nightshade",
         "region": "Unova",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/iris.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Iris.webp"
       }
     },
     {
@@ -125,14 +125,14 @@
       "age": 650,
       "isActive": true,
       "birthDate": "2003-09-05",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/garchomp.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Garchomp.png",
       "rarity": "Pseudo-Legendary",
       "abilities": ["Dragon Rush", "Earthquake", "Crunch"],
       "trainerAffiliation": {
         "id": "TRN-008",
         "name": "Serena Bloom",
         "region": "Kalos",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/serena.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Serena.webp"
       }
     },
     {
@@ -142,14 +142,14 @@
       "age": 680,
       "isActive": false,
       "birthDate": "2004-04-18",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/salamence.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Salamence.png",
       "rarity": "Pseudo-Legendary",
       "abilities": ["Dragon Dance", "Fly", "Dragon Claw"],
       "trainerAffiliation": {
         "id": "TRN-009",
         "name": "Cilan Greenleaf",
         "region": "Unova",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/cilan.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Cilian.webp"
       }
     },
     {
@@ -159,14 +159,14 @@
       "age": 2000,
       "isActive": true,
       "birthDate": "1998-07-07",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/rayquaza.png",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-images/Rayquaza.png",
       "rarity": "Legendary",
       "abilities": ["Air Slash", "Dragon Pulse", "Hyper Beam"],
       "trainerAffiliation": {
         "id": "TRN-010",
         "name": "Lillie Moon",
         "region": "Alola",
-        "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/lillie.png"
+        "imageUrl": "https://raw.githubusercontent.com/Rizwan-ah07/web-ont-json/refs/heads/main/images/pokemon-trainers/Lillie.webp"
       }
     }
   ]
