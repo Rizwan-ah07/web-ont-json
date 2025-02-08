@@ -1,0 +1,113 @@
+[
+    {
+      "id": "TRN-001",
+      "name": "Ash Ketchum",
+      "description": "A determined trainer from Pallet Town with an unyielding desire to become a Pokémon Master.",
+      "age": 10,
+      "isActive": true,
+      "birthDate": "2000-05-22",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/ash.png",
+      "region": "Kanto",
+      "hobbies": ["Battling", "Exploring", "Training"]
+    },
+    {
+      "id": "TRN-002",
+      "name": "Misty Waterflower",
+      "description": "A passionate Water-type specialist known for her quick thinking and caring nature.",
+      "age": 12,
+      "isActive": true,
+      "birthDate": "1998-08-12",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/misty.png",
+      "region": "Kanto",
+      "hobbies": ["Swimming", "Collecting Badges", "Researching Water Pokémon"]
+    },
+    {
+      "id": "TRN-003",
+      "name": "Brock Harrison",
+      "description": "A reliable trainer and rock enthusiast whose expertise in Pokémon battling is well-known.",
+      "age": 15,
+      "isActive": true,
+      "birthDate": "1995-03-30",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/brock.png",
+      "region": "Kanto",
+      "hobbies": ["Cooking", "Gym Training", "Geology"]
+    },
+    {
+      "id": "TRN-004",
+      "name": "Gary Oak",
+      "description": "A confident trainer whose friendly rivalry pushes him to constantly improve his skills.",
+      "age": 11,
+      "isActive": false,
+      "birthDate": "1999-07-19",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/gary.png",
+      "region": "Kanto",
+      "hobbies": ["Strategy", "Pokémon Research", "Collecting Data"]
+    },
+    {
+      "id": "TRN-005",
+      "name": "May Maple",
+      "description": "A warm-hearted trainer from Hoenn whose enthusiasm and dedication inspire those around her.",
+      "age": 13,
+      "isActive": true,
+      "birthDate": "1997-11-03",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/may.png",
+      "region": "Hoenn",
+      "hobbies": ["Nature Walks", "Photography", "Pokémon Research"]
+    },
+    {
+      "id": "TRN-006",
+      "name": "Dawn Summers",
+      "description": "A creative and dedicated trainer known for blending art with battle strategy.",
+      "age": 12,
+      "isActive": true,
+      "birthDate": "1998-02-14",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/dawn.png",
+      "region": "Sinnoh",
+      "hobbies": ["Drawing", "Battle Strategy", "Traveling"]
+    },
+    {
+      "id": "TRN-007",
+      "name": "Iris Nightshade",
+      "description": "An adventurous trainer from Unova whose bold tactics make her a formidable competitor.",
+      "age": 14,
+      "isActive": true,
+      "birthDate": "1997-06-28",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/iris.png",
+      "region": "Unova",
+      "hobbies": ["Skydiving", "Strategy Games", "Collecting Badges"]
+    },
+    {
+      "id": "TRN-008",
+      "name": "Serena Bloom",
+      "description": "A graceful trainer from Kalos with a keen eye for beauty in both Pokémon and nature.",
+      "age": 13,
+      "isActive": true,
+      "birthDate": "1999-04-09",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/serena.png",
+      "region": "Kalos",
+      "hobbies": ["Dancing", "Fashion", "Photography"]
+    },
+    {
+      "id": "TRN-009",
+      "name": "Cilan Greenleaf",
+      "description": "An insightful trainer with a passion for Pokémon cuisine and a deep connection to nature.",
+      "age": 12,
+      "isActive": false,
+      "birthDate": "2000-01-05",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/cilan.png",
+      "region": "Unova",
+      "hobbies": ["Cooking", "Botany", "Training"]
+    },
+    {
+      "id": "TRN-010",
+      "name": "Lillie Moon",
+      "description": "A gentle yet determined trainer from Alola, admired for her caring nature and resilience.",
+      "age": 11,
+      "isActive": true,
+      "birthDate": "2001-09-17",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/trainers/lillie.png",
+      "region": "Alola",
+      "hobbies": ["Stargazing", "Collecting Art", "Nature Walks"]
+    }
+  ]
+  
